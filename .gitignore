@@ -1,0 +1,14 @@
+.idea
+venv
+build
+apns.egg-info
+/dist/
+/wheels/
+.spyproject
+apns/__pycache__
+/apns/mnexec/CMakeFiles/
+/apns/mnexec/cmake_install.cmake
+/apns/mnexec/CMakeCache.txt
+/apns/mnexec/install_manifest.txt
+/apns/mnexec/Makefile
+/apns/mnexec/mnexec
